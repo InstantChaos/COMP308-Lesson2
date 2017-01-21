@@ -1,0 +1,23 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "demo app lesson2 ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InstantChaos/Comp308Lesson2.git"
+  },
+  "author": "Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InstantChaos/Comp308Lesson2/issues"
+  },
+  "homepage": "https://github.com/InstantChaos/Comp308Lesson2#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
