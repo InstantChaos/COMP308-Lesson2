@@ -23,7 +23,7 @@ app.use('/hello',(req,res,next) =>{
     next();
 });
 
-//test
+//test 2
 //Default route for website
 app.use('/',(req,res,next) =>{
     res.setHeader('Content-Type', 'text/plain');
